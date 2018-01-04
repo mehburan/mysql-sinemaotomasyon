@@ -3,5 +3,5 @@ Navicat, Xampp, mysql ile sinema otomasyonu kullanıcı ve admin tarafında kull
 # PROJE EKRAN GÖRÜNTÜLERİ
 <p>
   
-<a href="https://github.com/hakanozer/denemeyapim/blob/master/resimler/1.png" target="_blank">
-<img src="https://github.com/hakanozer/denemeyapim/blob/master/resimler/1.png" width="200" style="max-width:100%;"></a>
+<a href="https://github.com/mehburan/mysql-sinemaotomasyon/blob/master/resim/sinema1.PNG" target="_blank">
+<img src="https://github.com/mehburan/mysql-sinemaotomasyon/blob/master/resim/sinema1.PNG" style="max-width:100%;"></a>
